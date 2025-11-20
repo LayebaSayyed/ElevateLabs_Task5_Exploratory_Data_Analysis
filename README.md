@@ -1,4 +1,5 @@
 Task 5 – Exploratory Data Analysis (EDA)
+
 📌 Overview
 This repository contains the complete solution for Task 5: Exploratory Data Analysis (EDA) assigned as part of the Elevate Labs Data Analyst Internship.
 The task focuses on performing statistical and visual exploration on the Titanic train dataset to uncover patterns, trends, and key insights related to passenger survival.
